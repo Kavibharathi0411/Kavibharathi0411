@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kavibharathi M</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<p align="center">Hi there! I'm Kavibharathi M, an aspiring Full Stack Developer currently on an exciting journey to mastering both front-end and back-end technologies. I have completed the front-end portion of my Full Stack Development course, where I gained hands-on experience with HTML, CSS, JavaScript, and ReactJS.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kavibharathi0411&label=Profile%20views&color=0e75b6&style=flat" alt="akshalin" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
 
-- 📫 How to reach me **kavibharathi0411@gmail.com**
+- 📫To reach me **kavibharathi0411@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1nPkbR2WKAM-QtyIjq29ZwxrlI2mKopkN/view?usp=drivesdk
+- 📄To Know about my experiences: https://drive.google.com/file/d/1nPkbR2WKAM-QtyIjq29ZwxrlI2mKopkN/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
