@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kavibharathi M</h1>
-<p align="center">Hi there! I'm Kavibharathi M, an aspiring Full Stack Developer currently on an exciting journey to mastering both front-end and back-end technologies. I have completed the front-end portion of my Full Stack Development course, where I gained hands-on experience with HTML, CSS, JavaScript, and ReactJS.</p>
+<p align="center">I'm an aspiring Full Stack Developer currently on an exciting journey to mastering both front-end and back-end technologies. I have completed the front-end portion of my Full Stack Development course, where I gained hands-on experience with HTML, CSS, JavaScript, and ReactJS.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kavibharathi0411&label=Profile%20views&color=0e75b6&style=flat" alt="akshalin" /> </p>
 
