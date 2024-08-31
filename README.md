@@ -5,7 +5,7 @@
 <div align="center">
   <h1 align="left">About Me</h1>
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
-    <p font-family="Times New Roman', Times, serif;" align="left">Hi there! I'm Aruneshkumar A, an aspiring Full Stack Developer currently on an exciting journey to mastering both front-end and back-end technologies. I have completed the front-end portion of my Full Stack Development course, where I gained hands-on experience with HTML, CSS, JavaScript, and ReactJS.</p>
+    <p font-family="Times New Roman', Times, serif;" align="left">Hi there! I'm Kavibharathi M, an aspiring Full Stack Developer currently on an exciting journey to mastering both front-end and back-end technologies. I have completed the front-end portion of my Full Stack Development course, where I gained hands-on experience with HTML, CSS, JavaScript, and ReactJS.</p>
 
 </div>
 <div align="center">
