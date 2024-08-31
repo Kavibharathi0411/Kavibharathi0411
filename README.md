@@ -2,6 +2,9 @@
  <a href="https://www.linkedin.com/in/kavibharathi-m-bb671229a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"></img></a> 
      <a href="https://drive.google.com/file/d/1nPkbR2WKAM-QtyIjq29ZwxrlI2mKopkN/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-blue?logo=resume&logoColor=white&style=for-the-badge"></img></a>
 </div>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aruneshkumar07&style=flat-square&color=blue" alt=""/>
+</div>
 <div align="center">
   <h1 align="left">About Me</h1>
 <!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> -->
