@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavibharathi M</h1>
 <p align="center">I'm an aspiring Full Stack Developer currently on an exciting journey to mastering both front-end and back-end technologies. I have completed the front-end portion of my Full Stack Development course, where I gained hands-on experience with HTML, CSS, JavaScript, and ReactJS.</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kavibharathi0411&label=Profile%20views&color=0e75b6&style=flat" alt="akshalin" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Kavibharathi0411&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 
 - 📫To reach me **kavibharathi0411@gmail.com**
@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kavibharathi-m-bb671229a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshalinjefita" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Kavibharathi_0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akshalin" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kavibharathi-m-bb671229a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Kavibharathi_0411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills</h3>
